@@ -25,7 +25,7 @@ Conventional deep learning methods require large samples of data for a class in 
 Using one-shot learning for signature forgery detection we can predict whether a signature has been forged or not using only one genuine signature for comparison without retraining the whole model. Also, one-shot learning models does not require huge datasets to train and can generalize very well.
 
 ## Setup
-
+-[Data](https://www.kaggle.com/robinreni/signature-verification-dataset) 
 - Download and open [checking_forgery.ipynb](https://github.com/Devanshchowdhury2212/Signature-Forgery-Detection-with-One-shot-Learning/blob/main/checking_forgery.ipynb) using Google Colab.
 - Use the notebook to check signature forgery.
 
